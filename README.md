@@ -2,3 +2,4 @@
 The VNIR-Fire visible and near-infrared dual-spectrum flame dataset contains a total of 14,118 paired image groups, among which 10,961 samples are labeled with flames. Preliminary image registration has been completed for this dataset. Supported by the State Key Laboratory of Fire Safety, the dataset is captured synchronously via two Hikvision industrial cameras with a resolution of 800×509. Due to the page limit of this paper, only partial data samples are presented herein. The high-resolution, raw, and unregistered image dataset will be made publicly available in subsequent work.
 ![VNIR-Fire Dataset Samples](sample/5x6_fire_grid.jpg)
 The selected 150 dual-spectral image pairs are available in ./sample/sample_150.zip. The complete dataset will be released in the future.
+![VNIR-Fire Dataset Samples](sample/FCMA_2.jpg)
